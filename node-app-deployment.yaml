@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: #path to your docker image
+        image: 708dbe2396a2
         ports:
         - containerPort: 7080
